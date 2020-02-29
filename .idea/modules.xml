@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.michael.spring-boot-ehcache.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.michael.spring-boot-ehcache.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.michael.spring-boot-ehcache.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.michael.spring-boot-ehcache.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-devtools/spring-boot-devtools.iml" filepath="$PROJECT_DIR$/spring-boot-devtools/spring-boot-devtools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootehcache/spring-boot-ehcache.iml" filepath="$PROJECT_DIR$/springbootehcache/spring-boot-ehcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-ehcache.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-ehcache.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-ehcache.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-ehcache.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-learn.spring-boot-ehcache.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-learn.spring-boot-ehcache.iml" />
+    </modules>
+  </component>
+</project>
