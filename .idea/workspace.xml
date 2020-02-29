@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00557108-e717-4ddb-b908-46bc1e015019" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/spring-boot-ehcache/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-ehcache/target/classes/com/springboot/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-ehcache/target/classes/com/springboot/bean/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-ehcache/target/classes/com/springboot/mapper/StudentMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-ehcache/target/classes/com/springboot/service/StudentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-ehcache/target/classes/com/springboot/service/impl/StudentServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-ehcache/target/classes/ehcache.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-ehcache/target/classes/init.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-ehcache/target/test-classes/com/springboot/service/StudentServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/spring-boot-ehcache/.gradle/" />
@@ -303,7 +295,7 @@
       <workItem from="1582871319633" duration="511000" />
       <workItem from="1582871898508" duration="980000" />
       <workItem from="1582955941961" duration="4654000" />
-      <workItem from="1582960806477" duration="615000" />
+      <workItem from="1582960806477" duration="639000" />
     </task>
     <servers />
   </component>
@@ -322,7 +314,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7123000" />
+    <option name="totallyTimeSpent" value="7147000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
